@@ -1,23 +1,23 @@
 {
-    "name": "Next Week",
-    "description": "- Kogda strim? - CHerez nedelyu.",
-    "image": "https://ipfs.io/ipfs/QmXDo4j99coqbWvcioZ5U3DXNyGZx9DFcbpwXV4TemWFZu",
-    "attributes": [
-        {
-            "trait_type": "Base",
-            "value": "Week"
-        },
-        {
-            "trait_type": "Date",
-            "value": "Uncertain"
-        },
-        {
-            "trait_type": "When",
-            "value": "Anytime"
-        },
-        {
-            "trait_type": "Duration",
-            "value": "To infinity and beyond"
-        }
-    ]
+  "name": "Next Week",
+  "description": "- Kogda strim? - CHerez nedelyu.",
+  "image": "https://ipfs.io/ipfs/QmXDo4j99coqbWvcioZ5U3DXNyGZx9DFcbpwXV4TemWFZu",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Week"
+    },
+    {
+      "trait_type": "Date",
+      "value": "Uncertain"
+    },
+    {
+      "trait_type": "When",
+      "value": "Anytime"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "To infinity and beyond"
+    }
+  ]
 }

@@ -1,39 +1,39 @@
 {
-    "name": "BLM Nyahik",
-    "description": "\"- A cho ego tak skosilo? - Strimer on.\"",
-    "image": "https://ipfs.io/ipfs/QmSbuFb9D5Ezd1sSsAX6YkMcHA75TqeHt8WKSymKz2bVUv",
-    "attributes": [
-        {
-            "trait_type": "Base",
-            "value": "Black Nyahik"
-        },
-        {
-            "trait_type": "Eyebrows",
-            "value": "Like Brezhnev"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Slanting"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Masha Malinovskaya"
-        },
-        {
-            "trait_type": "Hand",
-            "value": "Mr. Krabs"
-        },
-        {
-            "trait_type": "Cringe",
-            "value": "hahaha"
-        },
-        {
-            "trait_type": "View",
-            "value": "Face"
-        },
-        {
-            "trait_type": "Price",
-            "value": "Shut up and take my money"
-        }
-    ]
+  "name": "BLM Nyahik",
+  "description": "\"- A cho ego tak skosilo? - Strimer on.\"",
+  "image": "https://ipfs.io/ipfs/QmSbuFb9D5Ezd1sSsAX6YkMcHA75TqeHt8WKSymKz2bVUv",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Black Nyahik"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Like Brezhnev"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Slanting"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Masha Malinovskaya"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Mr. Krabs"
+    },
+    {
+      "trait_type": "Cringe",
+      "value": "hahaha"
+    },
+    {
+      "trait_type": "View",
+      "value": "Face"
+    },
+    {
+      "trait_type": "Price",
+      "value": "Shut up and take my money"
+    }
+  ]
 }

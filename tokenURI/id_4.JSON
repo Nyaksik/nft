@@ -1,27 +1,27 @@
 {
-    "name": "Brother Bognanoff Nyahik",
-    "description": "Ekh, Bogdan, Bogdan. Bogom dan Bogdan.",
-    "image": "https://ipfs.io/ipfs/QmUpWfUrWfeceu1aF78nfuE5DryKhkYyVQ83GYSx5ZHsEz",
-    "attributes": [
-        {
-            "trait_type": "Base",
-            "value": "Nyaksik Bognanoff"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Filled with rage"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Ate shit"
-        },
-        {
-            "trait_type": "Cringe",
-            "value": "Bognanoff level"
-        },
-        {
-            "trait_type": "View",
-            "value": "Face"
-        }
-    ]
+  "name": "Brother Bognanoff Nyahik",
+  "description": "Ekh, Bogdan, Bogdan. Bogom dan Bogdan.",
+  "image": "https://ipfs.io/ipfs/QmUpWfUrWfeceu1aF78nfuE5DryKhkYyVQ83GYSx5ZHsEz",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Nyaksik Bognanoff"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled with rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ate shit"
+    },
+    {
+      "trait_type": "Cringe",
+      "value": "Bognanoff level"
+    },
+    {
+      "trait_type": "View",
+      "value": "Face"
+    }
+  ]
 }

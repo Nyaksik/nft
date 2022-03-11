@@ -1,27 +1,27 @@
 {
-    "name": "Best Nyaksik",
-    "description": "Look at this distinguished gentleman",
-    "image": "https://ipfs.io/ipfs/QmdZrP7A742urtqYN6atEX8xWNWU5Gj4fS4rRxswqWKQfR",
-    "attributes": [
-        {
-            "trait_type": "Base",
-            "value": "Nyaksik"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Almost looking at the brain"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Parabola"
-        },
-        {
-            "trait_type": "Cringe",
-            "value": "Absolutely not"
-        },
-        {
-            "trait_type": "View",
-            "value": "Face"
-        }
-    ]
+  "name": "Best Nyaksik",
+  "description": "Look at this distinguished gentleman",
+  "image": "https://ipfs.io/ipfs/QmdZrP7A742urtqYN6atEX8xWNWU5Gj4fS4rRxswqWKQfR",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Nyaksik"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Almost looking at the brain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Parabola"
+    },
+    {
+      "trait_type": "Cringe",
+      "value": "Absolutely not"
+    },
+    {
+      "trait_type": "View",
+      "value": "Face"
+    }
+  ]
 }
