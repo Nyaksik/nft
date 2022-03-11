@@ -1,0 +1,23 @@
+{
+    "name": "Dog and nipple",
+    "description": "auf",
+    "image": "https://ipfs.io/ipfs/QmUzhF6ZLHC65FwDStyCjYyo5cLPpvRfd2gFZa4ptLGeQt",
+    "attributes": [
+        {
+            "trait_type": "Base",
+            "value": "Dog"
+        },
+        {
+            "trait_type": "Cringe",
+            "value": "Truly"
+        },
+        {
+            "trait_type": "View",
+            "value": "Side view"
+        },
+        {
+            "trait_type": "Price",
+            "value": "Priceless"
+        }
+    ]
+}
